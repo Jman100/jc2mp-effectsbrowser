@@ -1,4 +1,4 @@
-jc2mp-effectsbrowser
+Effects Browser for Just Cause 2 Multiplayer
 ====================
 
 A simple client effects browser for Just Cause 2 Multiplayer Mod.
